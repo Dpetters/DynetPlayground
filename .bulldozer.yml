@@ -12,7 +12,3 @@ merge:
     squash:
       body: summarize_commits
   delete_after_merge: true
-
-update:
-  whitelist:
-    labels: ["wip", "update me"]
