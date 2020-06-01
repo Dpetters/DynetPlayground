@@ -10,6 +10,6 @@ merge:
   method: squash
   options:
     squash:
-      body: pull_request_body
-      message_delimiter: ---
+      body: "pull_request_body"
+      message_delimiter: "---"
   delete_after_merge: true
