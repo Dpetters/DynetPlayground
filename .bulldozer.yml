@@ -11,5 +11,5 @@ merge:
   options:
     squash:
       body: pull_request_body
-      message_delimiter: "==="
+      message_delimiter: "---"
   delete_after_merge: true
